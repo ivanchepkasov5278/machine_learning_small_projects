@@ -7,6 +7,7 @@
 machine_learning_small_projects/
 
 ├── Fare_Amount_Regression_Chepkasov.ipynb # Предсказание цены поездки на такси
+
 ├── Chocolate_Rating_Chepkasov.ipynb # Предсказание рейтинга шоколада
 
 ## 📑 Описание работ
